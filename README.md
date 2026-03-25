@@ -1,1 +1,1 @@
-# horizon-ui-template
+# Horizon UI Template - Migrate to Vite
